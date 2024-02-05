@@ -85,13 +85,13 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `clarusway` repo on Github 
+- Step 1: Download or clone project definition from `clarusway` repo on Github. 
 
-- Step 2: Create project folder for local public repo on your pc
+- Step 2: Create project folder for local public repo on your pc.
 
-- Step 3: Prepare a cloudformation template to deploy your app on EC2 Instance
+- Step 3: Prepare a cloudformation template to deploy your app on EC2 Instance.
 
-- Step 4: Push your application into your own public repo on Github
+- Step 4: Push your application into your own public repo on Github.
 
 - Step 5: Deploy your application on AWS Cloud using Cloudformation template to showcase your app within your team.
 
