@@ -15,13 +15,13 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
    - Application should be deployed on Apache Web Server.
 
-   - Application should be deployed in the development environment on AWS EC2 Instance using AWS Cloudformation Service. In the development environment, you can configure your Cloudformation template using the following,
+   - Application should be deployed in the development environment on AWS EC2 Instance using AWS Cloudformation Service. In the development environment, you can configure your Cloudformation template using the following:
 
       - The application stack should be created with new AWS resources. 
    
-      - The application should run on the latest version of Amazon Linux 2023 Image (Bonus). Here is the link where you can find information about this challenge. But, since we need Amazon Linux 2023 AMI, you need to change some parameters belonging to Amazon Linux 2 in this article seen below.
-        
-         https://aws.amazon.com/blogs/compute/query-for-the-latest-amazon-linux-ami-ids-using-aws-systems-manager-parameter-store/
+      - The application should run on the latest version of Amazon Linux 2023 Image (Bonus). Here is the link where you can find information about this challenge. But, since we need Amazon Linux 2023 AMI, you need to change some parameters belonging to Amazon Linux 2 in this article seen below:
+
+      -  "https://aws.amazon.com/blogs/compute/query-for-the-latest-amazon-linux-ami-ids-using-aws-systems-manager-parameter-store/"
         
       - EC2 Instance type can be configured as `t2.micro`.
 
@@ -53,35 +53,35 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ### At the end of the project, following topics are to be covered;
 
-- Apache Web Server Installation on Linux
+- Apache Web Server Installation on Linux.
 
-- Static Website Deployment
+- Static Website Deployment.
 
-- Bash scripting
+- Bash scripting.
 
-- AWS EC2 Service
+- AWS EC2 Service.
 
-- AWS Security Groups Configuration
+- AWS Security Groups Configuration.
 
-- AWS Cloudformation Service
+- AWS Cloudformation Service.
 
-- AWS Cloudformation Template Design
+- AWS Cloudformation Template Design.
 
-- Git & Github for Version Control System
+- Git & Github for Version Control System.
 
 ### At the end of the project, students will be able to;
 
-- install Apache Web Server on Amazon Linux 2023.
+- Install Apache Web Server on Amazon Linux 2023.
 
-- improve bash scripting skills using `user data` section in Cloudformation to install and setup web application on EC2 Instance.
+- Improve bash scripting skills using `user data` section in Cloudformation to install and setup web application on EC2 Instance.
 
-- configure AWS EC2 Instance and Security Groups.
+- Configure AWS EC2 Instance and Security Groups.
 
-- configure Cloudformation template to use AWS Resources.
+- Configure Cloudformation template to use AWS Resources.
 
-- use AWS Cloudformation Service to launch stacks.
+- Use AWS Cloudformation Service to launch stacks.
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+- Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
   
